@@ -1,0 +1,80 @@
+[
+  {
+    "tipoRecurso": "2",
+    "urlBoton": "https://www.bbvacontinental.pe/feria-de-viajes/",
+    "urlImagenPopup": "https://www.bbvacontinental.pe/fbin/mult/feria-de-viajes-pop-up_tcm1105-688537.png",
+    "condicion": "",
+    "tipoUrl": "2"
+  },
+  {
+    "tipoRecurso": "2",
+    "urlBoton": "banner/suscripcion-fondos-mutuos/suscripcion/FM/",
+    "urlImagenPopup": "/bdntux_pe_web/resources/img/pop-up-fondosMutuos.png",
+    "condicion": "evaluarFondosMutuos",
+    "tipoUrl": "1"
+  },
+  {
+    "tipoRecurso": "2",
+    "urlBoton": "cuentas/apertura/",
+    "urlImagenPopup": "/bdntux_pe_web/resources/img/carrusel-popup-23.png",
+    "condicion": "",
+    "tipoUrl": "1"
+  },
+  {
+    "tipoRecurso": "1",
+    "nombreCampania": "Protege Tus Tarjetas Contra Robo O Fraude A $2.99",
+    "nombreCampaniaBM": "Protege Tus Tarjetas Contra Robo O Fraude A $2.99",
+    "urlImagenGrandeMisOfertas": "/bdntux_pe_web/resources/img/flip/PT52.png",
+    "urlImagenPeqMisOfertas": "/bdntux_pe_web/resources/img/flip/PT26.png",
+    "urlImagen": "/bdntux_pe_web/resources/img/seccion_proteccion_tarjeta.png",
+    "colorBoton": "#0069B1",
+    "colorBorde": "#0069B1",
+    "textoBoton": "Hazlo aqu&iacute;",
+    "urlBoton": "tarjetas/proteccion-tarjetas/",
+    "tagueoCamp": "tagueo_PT()",
+    "tagueoMisOfertas": "seleccionProductodelMesPT()",
+    "tipoCampania": "PT",
+    "valorCamp": "",
+    "descOferta": "Protege todas tus tarjetas de cr&eacute;dito y d&eacute;bito del BBVA Continental y de otras entidades financieras contra robo o fraude por solo $ 2.99 al mes.",
+    "tituloOferta": "Seguro de Protecci&oacute;n de Tarjetas",
+    "condicion": ""
+  },
+  {
+    "tipoRecurso": "1",
+    "nombreCampania": "Haz crecer tus Fondos Mutuos sin ir al banco",
+    "nombreCampaniaBM": "Haz crecer tus Fondos Mutuos sin ir al banco",
+    "urlImagenGrandeMisOfertas": "/bdntux_pe_web/resources/img/flip/FM52.png",
+    "urlImagenPeqMisOfertas": "/bdntux_pe_web/resources/img/flip/FM26.png",
+    "urlImagen": "/bdntux_pe_web/resources/img/seccion_fondos_mutuos.png",
+    "colorBoton": "#C8175E",
+    "colorBorde": "#C8175E",
+    "textoBoton": "Hazlo aqu&iacute;",
+    "urlBoton": "banner/suscripcion-fondos-mutuos/suscripcion/FM",
+    "tagueoCamp": "tagueo_FFMM()",
+    "tagueoMisOfertas": "seleccionProductodelMesFM()",
+    "tipoCampania": "FM",
+    "valorCamp": "",
+    "descOferta": "&iexcl;Desde donde est&eacute;s! Aumenta tu inversi&oacute;n al instante y s&eacute; parte del mayor grupo de inversores del Per&uacute;.",
+    "tituloOferta": "Suscripci&oacute;n de Fondos Mutuos",
+    "condicion": "evaluarFondosMutuos"
+  },
+  {
+    "tipoRecurso": "1",
+    "nombreCampania": "&iquest;Necesitas una nueva Cuenta de Ahorros? &Aacute;brela 100% Online.",
+    "nombreCampaniaBM": "Necesitas una nueva Cuenta de Ahorros? Ábrela 100% Online.",
+    "urlImagenGrandeMisOfertas": "/bdntux_pe_web/resources/img/flip/AC52.png",
+    "urlImagenPeqMisOfertas": "/bdntux_pe_web/resources/img/flip/AC26.png",
+    "urlImagen": "/bdntux_pe_web/resources/img/seccion_apertura_cuenta.png",
+    "colorBoton": "#86c82d",
+    "colorBorde": "#86c82d",
+    "textoBoton": "Hazlo aqu&iacute;",
+    "urlBoton": "cuentas/apertura/",
+    "tagueoCamp": "tagueo_AC()",
+    "tagueoMisOfertas": "tagueo_AC()",
+    "tipoCampania": "AC",
+    "valorCamp": "",
+    "descOferta": "Abrir una nueva Cuenta de Ahorros 100% Online. Puedes elegir entre Cuenta Ganadora, Sueldo, Independencia y F&aacute;cil.",
+    "tituloOferta": "Apertura de Cuenta",
+    "condicion": ""
+  }
+]
