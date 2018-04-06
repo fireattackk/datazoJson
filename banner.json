@@ -23,7 +23,7 @@
   {
     "tipoRecurso": "1",
     "nombreCampania": "Protege Tus Tarjetas Contra Robo O Fraude A $2.99",
-    "nombreCampaniaBM": "Protege Tus Tarjetas Contra Robo O Fraude A $2.99",
+    "nombreCampaniaBM": "(BM)Protege Tus Tarjetas Contra Robo O Fraude A $2.99",
     "urlImagenGrandeMisOfertas": "/bdntux_pe_web/resources/img/flip/PT52.png",
     "urlImagenPeqMisOfertas": "/bdntux_pe_web/resources/img/flip/PT26.png",
     "urlImagen": "/bdntux_pe_web/resources/img/seccion_proteccion_tarjeta.png",
@@ -42,7 +42,7 @@
   {
     "tipoRecurso": "1",
     "nombreCampania": "Haz crecer tus Fondos Mutuos sin ir al banco",
-    "nombreCampaniaBM": "Haz crecer tus Fondos Mutuos sin ir al banco",
+    "nombreCampaniaBM": "(BM)Haz crecer tus Fondos Mutuos sin ir al banco",
     "urlImagenGrandeMisOfertas": "/bdntux_pe_web/resources/img/flip/FM52.png",
     "urlImagenPeqMisOfertas": "/bdntux_pe_web/resources/img/flip/FM26.png",
     "urlImagen": "/bdntux_pe_web/resources/img/seccion_fondos_mutuos.png",
@@ -61,7 +61,7 @@
   {
     "tipoRecurso": "1",
     "nombreCampania": "&iquest;Necesitas una nueva Cuenta de Ahorros? &Aacute;brela 100% Online.",
-    "nombreCampaniaBM": "Necesitas una nueva Cuenta de Ahorros? Ábrela 100% Online.",
+    "nombreCampaniaBM": "(BM)Necesitas una nueva Cuenta de Ahorros? Ábrela 100% Online.",
     "urlImagenGrandeMisOfertas": "/bdntux_pe_web/resources/img/flip/AC52.png",
     "urlImagenPeqMisOfertas": "/bdntux_pe_web/resources/img/flip/AC26.png",
     "urlImagen": "/bdntux_pe_web/resources/img/seccion_apertura_cuenta.png",
